@@ -241,6 +241,12 @@ footer .copyright {
   display: flex;
   justify-content: center;
   flex-flow: row wrap;
+  background:url("../img/unplugged-retreat.jpg");
+  background-size: cover;
+  background-position: center;
+  min-height: 500px;
+  ;
+
 }
 
 .hero-area h1 {
